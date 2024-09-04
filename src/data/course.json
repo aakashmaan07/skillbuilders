@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "JavaScript for Beginners",
+        "slug": "javaScript-for-beginners",
+        "description": "Learn the basics of JavaScript, the most popular programming language for web development.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Advanced Python Programming",
+        "slug": "advanced-python-programming",
+        "description": "Deep dive into advanced Python topics including data structures, algorithms, and web scraping.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Introduction to Machine Learning",
+        "slug": "introduction-to-machine-learning",
+        "description": "Understand the basics of machine learning and build your first machine learning model.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/vocalist.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Web Development with React",
+        "slug": "web-development-with-react",
+        "description": "Learn how to build dynamic web applications using React.js.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/courses/drumming.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Cybersecurity Fundamentals",
+        "slug": "cybersecurity-fundamentals",
+        "description": "Get introduced to the basics of cybersecurity and how to protect systems against threats.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/courses/jazz.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Introduction to Cloud Computing",
+        "slug": "introduction-to-cloud-computing",
+        "description": "Learn the fundamentals of cloud computing and gain hands-on experience with leading cloud platforms.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 7,
+        "title": "DevOps Essentials",
+        "slug": "devOps-essentials",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/courses/song-writing.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Full-Stack Web Development",
+        "slug": "full-stack-web-development",
+        "description": "Master both front-end and back-end web development using popular technologies.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Mobile App Development with React Native",
+        "slug": "mobile-app-development-with-react-native",
+        "description": "Explore the rich history of classical music from its origins to the present day.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/courses/classical-music.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Data Science and Analytics",
+        "slug": "data-science-and-analytics",
+        "description": "Learn how to analyze and visualize data using popular tools and techniques.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "/courses/blues.jpg"
+      }
+    ]
+  }
+  
